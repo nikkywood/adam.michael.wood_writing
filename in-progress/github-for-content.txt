@@ -1,0 +1,7 @@
+Using GitHub For Content
+
+Part of the interesting thing about releasing my own non-development writing (essays, poems, etc- as opposed to code) is the shift in tools that comes about because of that.
+
+I've written several times about how releasing a PDF, even under a permissive Free license, is not exactly Open Source- as it does not satisfy the requirement of releasing source code. A PDF is (in my opinion) the content version of a compiled binary.
+
+So...
