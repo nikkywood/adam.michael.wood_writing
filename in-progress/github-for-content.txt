@@ -1,7 +1,54 @@
-Using GitHub For Content
+## Using GitHub For Content ##
 
 Part of the interesting thing about releasing my own non-development writing (essays, poems, etc- as opposed to code) is the shift in tools that comes about because of that.
 
 I've written several times about how releasing a PDF, even under a permissive Free license, is not exactly Open Source- as it does not satisfy the requirement of releasing source code. A PDF is (in my opinion) the content version of a compiled binary.
 
-So...
+To that end, I've encouraged (for example) musicians to work in a text-based music editor (such as LilyPond or Gregorio) instead of a graphics-based editor (such as Finale or Sibelius) and to release the original text-based source code along with any compiled PDF performance editions. This would allow other people to easily adapt or build upon the work, or include it into other projects. (One of the more annoying aspects of music anthologies is the incoherent mess of musical typesetting styles, which happens because the thought of re-setting every single work in an anthology is pretty daunting. If more works were originally available in source-code format, this problem could be avoided.)
+
+But what is the nature of Open Source? Is the nature of Open Source the free license to do whatever one wants? That's part of it. Is the nature of Open Source the access to source code? Of course, that's integral.
+
+I suggest that the nature of Open Source also includes two aspects which are generally ignored by content creators (often for good reason):
+1. Transparency into the creation process.
+2. Friction-free sharing.
+
+### Transparency ###
+
+By "transparency into the creation process," I mean that in Open Source software, it is somewhat rare for a developer to finish an entire project *and then* go put it online for other people to see. Usually, as soon as there is something even moderately worth sharing it gets shared. The entire life cycle of a project might occur in a public space, since the original idea for a new project will often bubble up in online forums or blog posts. Then, of course, from early prototype into mature project, progress can be seen on public repositories and discussed in issue trackers and email lists. Even the whole notion of Version Numbering provides transparency into the ongoing process of creation.
+
+Content-creators, on the other hand- outside of Wikipedia (which I consider to be something of a special case)- tend to hoard their ideas and work on their own- not releasing anything until it is finished. This includes (and is really only addressed to) people who are actually releasing their material into the Commons. Even with the overriding philosophy of Free Culture and the permissions that go along with it, the creative process is still guarded. Writers don't want other people to see their half-baked ideas, their unedited sloppy grammar and spelling, or the various ways that cheap tricks and random occurrences conspire to make a finished piece of writing into something really special. Poets don't want other people to see that some seemingly profound insight started out as meter-filling placeholder text, or that the effortlessly perfect word was actually the result of ten iterations and a lengthy consult with a rhyming dictionary and thesaurus. Essayist don't want other people to see that write "insert pithy example here" and then followup with a Google search; it's much more impressive if the example sparked the rest of the essay, or if the essayist has a comprehensive knowledge of everything that has ever happened and which might provide a useful illustration of any particular point.
+
+This veil over the process of content creation has persisted through centuries of artistic output, and contributes directly to the whole "superhero creator" myth, a myth which is the foundation of modern Intellectual Property justification and the largest barrier to non-writers (especially young people and students) becoming writers themselves.
+
+For that reason alone- the destruction of the myth of the super-hero artist- opening up the creative process to greater transparency is a highly worthwhile endeavor. Moreover, there is little doubt in my mind that a more open creative process contributes to a higher-quality end product. Most writers acknowledge this, if somewhat begrudgingly, and it is the basis for all forms of writer workshops and "share-your-story" seminars. In my own experience as a writer of hymn texts, I can say that posting texts online and requesting comment and suggestions has caused dramatic improvements to those texts and (in more than one case) a larger response in terms of people using my work in actual performance.
+
+### Friction-Free Sharing ###
+
+Very much wrapped up with the notion of releasing Source Code, what I mean by "Friction Free Sharing" is the notion that it is as easy as possible for someone who wants to copy and build upon your work to do so.
+
+If you are already releasing the license for people to do with your work as they wish, it makes sense to then actually encourage people to do so. Otherwise, you get all the downside of Open Source and none of the upside.
+
+By this I mean: Why would you give up control of your work, cede financial interest in its derivative products, and open yourself to the heartbreak of seeing people misuse or poorly adapt your creations, if not for the benefits that may accrue to people who do so: wider adoption, increased recognition, contribution to the community (or whatever your own motivation and thinking is on these points).
+
+When anti-Open people argue with me that as a writer, I should have the right to get paid for my work, I generally respond: I agree. And I am of the opinion that the more I give away, the more likely it is someone will notice me, and want to pay me. Moreover, I'm much more interested in having more people read or use my work than I am interested in the small pittance I assume I would be able to eek out if I attempted to charge for my writing. (For goodness sakes, I write church music, and I write about church music, and I write about geeky things like Open Sourcing the writing process. That's not exactly Dan Brown novels.)
+
+So- if the benefits I'm looking for only accrue if people share, copy, steal, remix, reuse and recycle my work, it is in my best interest to make that work as easily copyable as possible. Allowing people to CTRL-C on my blog is a start. Posting TXT or PDF files on my own website's server is a little better. Organizing my output helps with that too. But the search and fetch nature of assembling some writer's corpus is a pretty strong barrier to publishing the Complleet unt Vnauthorised Kollected Werks ov Adem Wod.
+
+## GitHub (because... reasons!) ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
