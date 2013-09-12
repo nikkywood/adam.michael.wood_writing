@@ -47,13 +47,13 @@ So what's the hangup? Where's all the great commercial products?
 
 I'll tell you where they are- they're at Corpus Christi Watershed.
 
-Have you seen the Vatican 2 Hymnal? I mean- not just saw a link to it on FaceBook- really looked at the thing. Picked it up, perused it. It's amazing.
+Have you seen the <a href="http://www.ccwatershed.org/vatican/" target="_blank">Vatican II Hymnal</a>? I mean- not just saw a link to it on FaceBook- really looked at the thing. Picked it up, perused it. It's amazing.
 
 Is it perfect? Of course not. Are there things I would personally change about it? You bet.
 
 But the astonishing thing about it is that you could hand it to a brand new Music Director at a Novus Ordo parish and they could start doing decent music immediately.
 
-Is this the best way to approach music ministry in the Church- just doing what some packaged guidebook tells you to? Of course it isn't. We all know that. But it is precisely where many people are: OCP subscriptions, NPM guides, GIA Planner.
+Is this the best way to approach music ministry in the Church- just doing what some packaged guidebook tells you to? <a href="http://www.chantcafe.com/2013/09/rules-nope.html" target="_blank">Of course it isn't. We all know that. But it is precisely where many people are: OCP subscriptions, NPM guides, GIA Planner.
 
 In fact- it was precisely this step-by-step how-to packaging that led to 1970s-era folk music going from a fringe movement to an omnipresent omnishambles. Have you gone back recently and looked at an old Glory and Praise accompaniment edition? Strumming patterns, guitar instructions, congregation dance steps and hand gestures (I'm SERIOUS), and detailed information on when each song was appropriate (strangely, "never" wasn't listed for any items).
 
@@ -85,7 +85,13 @@ But it also has full color photos of both High and Low Mass being celebrated. Th
 
 Oh- and it has a ribbon!
 
-So this book contains everything you need to be an active participant in an Extraordinary Form Mass. Moreover, it is an amazing starting point for learning about the "Old Mass" for people who have never had the fortune to attend one- like yours truly- who had a number of misconceptions and confusions cleared up by perusing this volume. In fact, until reading through this book, my interest in the EF has been mostly "academic." I would be happy to attend one as a "learning experience," (since I pretend to be knowledgeable about such things) but I have never had any personal desire to worship according to the older form of the Rite. Many people have said that they had a similar feeling on the matter until they attended one, and then they were "hooked." Well- I'm not "hooked" quite yet- but this book has made me more intrigued and interested in the EF than I ever have been previously. I can imagine that use of this book outside of it's intended liturgical purpose, as an educational tool or textbook for example, would greatly increase interest in the traditional Latin Mass and in traditional expressions of the Sacred Liturgy generally.
+I just realized my description of "pictures, notes, and a ribbon" is not quite expressing what I mean to say about this book...
+
+This book contains everything you need to be an active participant in an Extraordinary Form Mass. Ok- perfect.
+
+But moreover, it is an amazing starting point for learning about the "Old Mass" for people who have never had the fortune to attend one- like yours truly- who had a number of misconceptions and confusions cleared up by perusing this volume. 
+
+In fact, until reading through this book, my interest in the EF has been mostly "academic." I would be happy to attend one as a "learning experience," (since I pretend to be knowledgeable about such things) but I have never had any personal desire to worship according to the older form of the Rite. Many people have said that they had a similar feeling on the matter until they attended one, and then they were "hooked." Well- I'm not "hooked" quite yet- but this book has made me more intrigued and interested in the EF than I ever have been previously. I can imagine that use of this book outside of it's intended liturgical purpose, as an educational tool or textbook for example, would greatly increase interest in the traditional Latin Mass and in traditional expressions of the Sacred Liturgy generally.
 
 Finally- besides its explicit content (these texts, those pictures, that song), there is an implicit message in the Campion Missal, a Point-of-View that is expressed in the care and detail, in the tone of the notes and choice of fonts. It is this implicit message that is, at the last, the most compelling aspect of the Campion Missal, and it is a message which comes directly from Jeff Ostrowski's authentic faith and his experience with Sacred Liturgy:
 
