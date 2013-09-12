@@ -53,7 +53,7 @@ Is it perfect? Of course not. Are there things I would personally change about i
 
 But the astonishing thing about it is that you could hand it to a brand new Music Director at a Novus Ordo parish and they could start doing decent music immediately.
 
-Is this the best way to approach music ministry in the Church- just doing what some packaged guidebook tells you to? <a href="http://www.chantcafe.com/2013/09/rules-nope.html" target="_blank">Of course it isn't. We all know that. But it is precisely where many people are: OCP subscriptions, NPM guides, GIA Planner.
+Is this the best way to approach music ministry in the Church- just doing what some packaged guidebook tells you to? <a href="http://www.chantcafe.com/2013/09/rules-nope.html" target="_blank">Of course it isn't</a>. We all know that. But it is precisely where many people are: OCP subscriptions, NPM guides, GIA Planner.
 
 In fact- it was precisely this step-by-step how-to packaging that led to 1970s-era folk music going from a fringe movement to an omnipresent omnishambles. Have you gone back recently and looked at an old Glory and Praise accompaniment edition? Strumming patterns, guitar instructions, congregation dance steps and hand gestures (I'm SERIOUS), and detailed information on when each song was appropriate (strangely, "never" wasn't listed for any items).
 
