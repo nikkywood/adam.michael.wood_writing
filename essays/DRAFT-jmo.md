@@ -42,3 +42,58 @@ I do not mean simply seeking to make money, to "sell out" the movement for a qui
 I'm on the record STRONGLY in support of Open Source and Free Culture. To be clear: I am in no way of the opinion that Free/Open is in opposition to or a hindrance to commercialization.
 
 That being said, there has, up to now, been some difficulty bridging the gap from "everything is Free!" to "here- would you like to buy this?" This is a shortcoming of us (people), not the precepts of Free Culture (in my opinion, obviously).
+
+So what's the hangup? Where's all the great commercial products?
+
+I'll tell you where they are- they're at Corpus Christi Watershed.
+
+Have you seen the Vatican 2 Hymnal? I mean- not just saw a link to it on FaceBook- really looked at the thing. Picked it up, perused it. It's amazing.
+
+Is it perfect? Of course not. Are there things I would personally change about it? You bet.
+
+But the astonishing thing about it is that you could hand it to a brand new Music Director at a Novus Ordo parish and they could start doing decent music immediately.
+
+Is this the best way to approach music ministry in the Church- just doing what some packaged guidebook tells you to? Of course it isn't. We all know that. But it is precisely where many people are: OCP subscriptions, NPM guides, GIA Planner.
+
+In fact- it was precisely this step-by-step how-to packaging that led to 1970s-era folk music going from a fringe movement to an omnipresent omnishambles. Have you gone back recently and looked at an old Glory and Praise accompaniment edition? Strumming patterns, guitar instructions, congregation dance steps and hand gestures (I'm SERIOUS), and detailed information on when each song was appropriate (strangely, "never" wasn't listed for any items).
+
+As I said, there are a number of really excellent composers and publishers putting out amazing work, but until very recently I don't think there has been anyone doing anything that approaches this All-in-One "program package" approach to traditional sacred music. Jeff Ostrowski and Corpus Christi Watershed have really broken new ground on this front. And the fact there are now <a href="http://illuminarepublications.com/" target="_blank">others moving into the same space</a> is a testament to JMO/CCW's vision.
+
+And recently, in a move that seems in some respects to be even bolder than anything they've done before, CCW published a similar "all-in-one" resource... FOR THE TRADITIONAL LATIN MASS!
+
+In retrospect, this seems pretty obvious- why wouldn't you do that? Moreover- why doesn't something like that exist already?
+
+Well- some things <em>like</em> that exist: cramped little hand missals printed on onion-thin paper, crummy reprints of pre-1960s booklets, confusing materials from heretical "traditionalist" sects...
+
+Besides any aspect of the final product (which I will get to, and which is amazing), it's important to realize the vision it took just to decide to take on a project like this. To decide it's a good idea, you'd have to (1) recognize that there is a growing market of new TLM (EF) mass attendees, (2) understand the "new traditionalist" movement enough to know what they need and don't need, (3) have enough of that "new traditionalist" (emphasis on new) spirit to recognize that there can, in fact, be a new and improved approach to working with "the old Mass," and (4) have the intestinal fortitude to put up with the inevitable complaints about attempting to introduce something new to adherents of "the old Mass" (Was it full-color photography in 19th Century France? It was not).
+
+Oh- and I did I mention you have to know what the heck you're doing? Not an easy feat when it comes to a liturgy that is subject to 400 years of legislation.
+
+Whew. That's daring.
+
+The result?
+
+A gigantic triumph of a publication that is not just a hand missal- it is a text book, a treatise, a documentary.
+
+<a href="http://www.ccwatershed.org/Campion/" target="_blank">The St. Edmund Campion Missal and Hymnal for the Traditional Latin Mass</a> is 992 page wonderment.
+
+(But, really PoJo: you couldn't stuff 8 more pages into their so we could say it was A THOUSAND pages? Ah well.)
+
+Yes, yes- it's a hand missal and hymnal. So of course it has The Mass and Some Good Music. That's a given. And it's from CCW, so of course the typesetting is beautiful and the layout is great and it's especially formatted to avoid page turns. Of course. We would all, at this point, expect nothing less.
+
+But it also has full color photos of both High and Low Mass being celebrated. There is a series of images of the same chant in various manuscripts through many centuries of Catholic history. There are detailed notes about what is happening and what to expect.
+
+Oh- and it has a ribbon!
+
+So this book contains everything you need to be an active participant in an Extraordinary Form Mass. Moreover, it is an amazing starting point for learning about the "Old Mass" for people who have never had the fortune to attend one- like yours truly- who had a number of misconceptions and confusions cleared up by perusing this volume. In fact, until reading through this book, my interest in the EF has been mostly "academic." I would be happy to attend one as a "learning experience," (since I pretend to be knowledgeable about such things) but I have never had any personal desire to worship according to the older form of the Rite. Many people have said that they had a similar feeling on the matter until they attended one, and then they were "hooked." Well- I'm not "hooked" quite yet- but this book has made me more intrigued and interested in the EF than I ever have been previously. I can imagine that use of this book outside of it's intended liturgical purpose, as an educational tool or textbook for example, would greatly increase interest in the traditional Latin Mass and in traditional expressions of the Sacred Liturgy generally.
+
+Finally- besides its explicit content (these texts, those pictures, that song), there is an implicit message in the Campion Missal, a Point-of-View that is expressed in the care and detail, in the tone of the notes and choice of fonts. It is this implicit message that is, at the last, the most compelling aspect of the Campion Missal, and it is a message which comes directly from Jeff Ostrowski's authentic faith and his experience with Sacred Liturgy:
+
+The Traditions of the Church are not just something from the past for us to either adhere to blindly or spitefully ignore. They are a living font of fresh water, and an ongoing procession of miraculous faith.
+
+Whether you attend a Traditional Mass or not, whether you've even ever been to one or never plan to, or have and don't want to ever again- everyone interested in Sacred Liturgy should have a copy of the St. Edmund Campion  Missal- if for no other reason than so that you can witness the powerful and inspiring vision of <a href="http://www.ccwatershed.org/blog/2012/dec/24/jeff-ostrowski-biography/" target="_blank">one faithful servant.</a>
+
+<hr/>
+<a href="http://www.ccwatershed.org/Campion/" target="_blank">More information about the St. Edmund Campion Missal and Hymnal for the Traditional Latin Mass can be found here.</a>
+
+Did I mention it has a ribbon?
