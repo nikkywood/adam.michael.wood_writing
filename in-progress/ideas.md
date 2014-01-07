@@ -18,6 +18,9 @@ Open Source matters, dammit.
 
 How to Talk like a progressive
 
+The illusion of safety - how government undermines caveat emptor
+
+
 
 ## Funny
 
