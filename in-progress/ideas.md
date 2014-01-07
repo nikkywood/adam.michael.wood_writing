@@ -20,6 +20,12 @@ How to Talk like a progressive
 
 The illusion of safety - how government undermines caveat emptor
 
+Do not take money from the government
+
+Do not call the police
+
+Anarchy isn't political
+
 
 
 ## Funny
