@@ -23,3 +23,11 @@ How to Talk like a progressive
 
 Top ten Best/worst dressed libertarians/anarchists/hackers
 
+
+
+# Multi-discipline
+
+On the libertarianism Job
+
+Min. Wage theology
+
