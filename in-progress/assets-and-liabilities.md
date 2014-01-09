@@ -16,41 +16,13 @@ This means that a car is almost always a liability, not an asset. Cars cost mone
 
 Owning a Bitcoin mining rig (or shares in a Bitcoin mining pool) is probably an asset on the other hand. Assuming it works, it will generate some amount of income (Bitcoins). Additionally, its value may go up over time (as the value of Bitcoins increases, the value of mining equipment also increases, like shovels in a gold rush).
 
-## Difficulties and Confusions
-
-There are four major difficulties in discussing assets and liabilities in theoretical terms (especially with people who have a falsely-dogmatic sense of logic).
-
-### Most things are a mixed bag
-
-If you read much personal financial literature, you find that the sterotypical example of a liability is "a car." This is a great example, because it almost always is, and most people don't seem to realize it.
-
-The sterotypical example of asset, which I avoided, is "a house." While this is generally true (real estate values tend to go up over time), it is not absolutely true (you might be in a down market, or have a house that is falling apart). Houses cost money to hold and maintain, which often makes them feel like a liability even when they are not.
-
-Many assets - houses, businesses - cost money to maintain. Due to market fluctuations and inevitable uncertainty, the value of an asset may even decrease over some period of time. This sometimes confuses matters.
-
-### Change in status over time
-
-Very much related to the "mixed bag" issue, many things change their status from asset to liability over time. 
-
-Your car is a liability now. If you maintain it well, your grandchildren might inherit it as an asset.
-
-A house may start as an asset and then turn into a liability if the market crashes, or if your personal situation changes (see "Perspective" below).
-
-And a Bitcoin mining rig that was an asset a few years ago is probably neither an asset or a liability at this point: it's likely to just be dead weight.
-
-### Perspective
-
-A car is an asset if you're a car dealership. It's part of inventory, and you almost certainly plan to sell it for more than you bought it for.
-
-A job can be an asset if it pays well, or a liability if it stops you from pursuing other opportunities.
-
-### You need liabilities
+## Don't confuse the two
 
 Before I knew the real definitions, I (like a lot of people) only had a vauge notion that liabilities are bad, and that assets are good.
 
 This is very wrong, and it leads to people seeing things in all the wrong ways.
 
-If you think of an asset as somehting good, anything you need or want, you'll think of your car as an asset. Afterall - you need a car to get to work, so it's helping you bring in income.
+If you think of an asset as somehting good, anything you need or want or something with intrinsic value and worth, you'll think of your car as an asset. Afterall - you need a car to get to work, so it's helping you bring in income.
 
 This sort of miscategorization happens all the time, and almost always it takes the form of thinking a liability is actually an asset.
 
@@ -60,6 +32,39 @@ Liabilities are not bad, nor are assets good. We shouldn't assign moral or exist
 
 Most of the time, you need liabilities. A company usually can't make money without employees. The employees are needed. But they cost money to maintain (keep employed) and they have no resale value (you generally can't sell people). They are serving the needs of the company, so it is worthwhile to spend the money, but that doesn't make them any less liabilities. Similarly, your local grocery store is fulfilling your need to have something to eat, and it is worth it to you to buy food from them. That doesn't make your grocery store an asset.
 
-It does not matter whether you need the thing, or want the thing, or whether it brings you joy and happiness or peace and fulfilment. The central concept of assets and liabilities is a strictly financial one - this is vitally important to understanding how businesses and governments think and operate.
 
-## 
+## The Objection
+
+At this point in the explanation, there is almost always a heartfelt objection: But people are valuable! We can't reduce them to being mere assets and liabilities!
+
+This is quite right.
+
+People have value and worth apart from their financial status or impact on you (which is why I've always been uncomfortable with the term "Net Worth").
+
+But you can't correct this objectification by declaring people to be assets when they are actually liabilities. That's because calling something a different name doesn't change what it actually is. 
+
+Moreover, adopting the financial-value language to talk about the value you see in a human life only reinforces the idea that financial value is the important thing.
+
+But financial value is not THE important thing. It is simply one characteristic of a person's relationship to another person (remember, a person might represent an asset to one and liability to another).
+
+Complaining about the objectification caused by categorizing people (or, really, relationships) as "assets" or "liabilities" doesn't actually help, because the reason for understanding this is NOT to drive your own behavior ("You should do XYZ because that friend is a liability") but rather so that we can understand why certain organizations, especially the government, treats people the way it does. Only once we understand that can we hope to do anything about it.
+
+## Only the balance sheet matters
+
+When you consider the worth and value of the people in your life, or the intrinsic value of a single human life, you do not think in terms of financial assets and liabilities. 
+
+This is a good thing, and the way it ought to be.
+
+This is because you are a human being with a soul and a mind. You have irrational thoughts and uncontrollable emotions. You love, you hate, you learn and grow. You are motivated by an infinite number of conflicting desires and drives which you probably don't fully understand yourself, and which certainly no other person can know. You have secret dreams and secret motivations, plans and schemes and goals and habits good and bad.
+
+Governments have almost none of those things. They tend to do well on the "plans and schemes," and often "secret motivations," but you'd be hard pressed to find a government that loves or learns. They grow, but more like a cancer than like a healthy human. They have no soul.
+
+For this reason, governments can not see a person the way we, as people, can see a person. For a government, the only meaning that a person has is as an asset or as a liability. Corporations have the exact same blindness.
+
+Even though both corporations and governments are run by people, the needs of the organization itself will always trump the compassion of the individuals who make it up. This is because the entire purpose of corporations and governments is to sublimate the activity of individuals into a higher and more complex set of goal-seeking behaviors. That's the whole reason humans create organizations like businesses, governments, and churches.
+
+So, if governments and corporations view people in similar ways, they are both similarly bad and should be avoided, right?
+
+This is the "anarcho-communist" viewpoint, and is both common and understandable. But it is also wrong.
+
+The key difference has to do with the goals of government and the goals of businesses, and the effect of that difference is both paradoxically confusing and completely obvious (once you've heard it).
