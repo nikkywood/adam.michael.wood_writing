@@ -100,6 +100,8 @@ The Market isn't a game
 
 You can believe in Global Warming if you want to
 
+Liberty beyond the rock-and-roll lifestyle
+
 
 ## Funny
 
