@@ -60,7 +60,45 @@ What the Open Source movement teaches us about anarchy
 
 Governments are free-market actors
 
+My non-libertarian Libertarian heroes
 
+Reframing Libertarian language
+(cf: allocation of goods, price discovery, etc, etc)
+
+The Libertarian Opinion Disclaimer:
+-I can't speak for "Libertarianism" in general. I can only tell you what I believe is true...
+
+Private Property is no longer the most pressing issue
+
+It isn't a System to Implement
+
+Books for REAL history
+(Salt, Chant, Pirates, Rum, Smuggling, etc.)
+
+On labels, and the non-inherent meaning of words like "Libertarian" (this needs a better title)
+
+How the Middle Ages were awesome and why the Rennaisance was a total freaking disaster
+
+What the invention of the clock, the compass, and the lens tells us about the effectiveness of market solutions
+
+Why religion should never ask the government for help
+
+New and Interesting uses for the Nolan Chart (decoupling all sorts of opinion spectrums)
+
+Government is a force of nature
+
+My Libertarian Heresies
+
+Why Libertarianism does not mean "every man for himself"
+(or "everyone left to their own devices" 
+or "rugged individualism"
+or anything else related to that)
+
+How (conventional) Liberals ruin everything they love
+
+The Market isn't a game
+
+You can believe in Global Warming if you want to
 
 
 ## Funny
