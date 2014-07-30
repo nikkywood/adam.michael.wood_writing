@@ -1,4 +1,4 @@
-# Liberty
+# Liberty and Econ
 
 ## Serious
 
@@ -114,11 +114,21 @@ Who will gild the toads?
 
 
 
-# Multi-discipline
+# Theology and Liturgy
 
 Min. Wage theology
 
 Catholic Social Teaching
 
 The Statism of the hierarchy and the anarchy of the orders
+
+What is PARTICIPATION (cf. Aquinas, classical thinking)
+
+Ideological Embrittlement (Legalism Drift) in liturgical rubricism
+
+Is the Novus Ordo REALLY reformed?
+
+Peter Brook on Liturgy: Deadly, Rough, Holy Ritual
+
+
 
