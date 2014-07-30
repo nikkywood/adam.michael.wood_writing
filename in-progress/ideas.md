@@ -116,7 +116,9 @@ Who will gild the toads?
 
 # Theology and Liturgy
 
-Min. Wage theology
+[x] Min. Wage theology
+
+Transactional Soteriology
 
 Catholic Social Teaching
 
