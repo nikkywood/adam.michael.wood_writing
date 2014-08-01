@@ -1,4 +1,4 @@
-Economically and politically conservative Catholics, especially those of us who identify as Libertarian, are sometimes criticized for being against the government-run Welfare programs.
+Economically and politically conservative Catholics, especially those of us who identify as Libertarian, are sometimes criticized for being against government-run Welfare programs.
 
 The basis for this criticism - and it has some logic to it - is that if we are Pro-Life (which we most certainly must be), we should also be in favor of those policies and programs which help nurture and sustain life. 
 
