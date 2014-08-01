@@ -143,3 +143,18 @@ Government-run welfare programs are not just accidentally anti-life. They are an
 
 ## Moving towards life
 
+What then, do we do?
+
+Dismantling the welfare state is likely to cause more damage at this point than leaving it in alone, assuming that such a thing could even be possible in the first place - which it probably isn't. Various attempts by the political Right to limit its effectiveness tend also to make things worse, because the ideology of most conservative politicians is no more pro-life than that of most liberal ones.
+
+In fact, the seed of this problem - the anti-life caretaker government - is the basic idea that by fixing government, we can fix society. This is wrong, and dangerous.
+
+The answer, then, is not primarily to seek government solutions (and dismantling a program is as much a government solution as starting one). We do not need more government solutions, but more Christian ones.
+
+Pro-life Catholics must engage in pro-life activities, actions that demonstrate the real (non-economic) value of human life. Additionally, we can engage in business and financial activity which raises the economic value of individuals, thus shielding them from rationalistic economic judgements by helping them to become assets rather than liabilities.
+
+Blessedly, many Catholics and other Christians are already doing precisely that. Every married couple raising a quiver of Godly children is doing more to promote the value of human life than a hundred otherwise passive "values voters." Every business owner creating jobs and economic value is doing more to eliminate poverty than a thousand government welfare programs.
+
+We can also do more - as churches and as individuals - to reduce the need for governemnt assistance. Obviously, we can work for and help fund private charities, and other similar activities. But we can also watch out for our own neighbors and friends. We can help members of our parishes pay their bills instead of helping them fill out government assistance forms. We can invite the hungry into our homes for dinner instead of handing them a few canned goods and the phone number of the WIC office. We can demonstrate through our liturgy and our lives that every child - regardless of circumstance - has a place in our Church and in our community.
+
+Life itself - the real life of falling in love and marrying, raising children, conducting business, worshipping God, engaging in one's neighborhood - life itself is the greatest pro-life movement.
