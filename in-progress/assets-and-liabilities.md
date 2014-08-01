@@ -1,30 +1,37 @@
-# Assets and Liabilities
+Economically and politically conservative Catholics, especially those of us who identify as Libertarian, are sometimes criticized for being against the government-run Welfare programs.
 
-Before I spent time in the financial services industry, I had no idea what the difference between an asset and a liability was. 
+The basis for this criticism - and it has some logic to it - is that if we are Pro-Life (which we most certainly must be), we should also be in favor of those policies and programs which help nurture and sustain life. 
 
-Discovering the difference - what these ideas mean in their formal accounting sense - has made a huge impact in the way I understand economics, politics, and the issues of liberty.
+And this is true. We must not be Pro-Life only when that life is unborn. We must be in favor of, and supportive of, all human life in every stage. We must be pro-life, not just part of the Pro-Life movement.
 
-I believe a lack of understanding about how assets and liabilities work - what they are - is at the heart of most of society's fiscal and economic problems, and that a clear understanding of these two key concepts will change how you see the actions of the State.
+What, then, is a pro-life attitude toward government welfare? Many would say that using tax dollars to feed the hungry, clothe the naked, and house the homeless is a good and virtuous thing. A pro-life thing. A Christian thing.
 
-## Simple Financial Explanations
+To be sure, these things are a better use of tax dollars than bullets and bombs and bridges to nowhere. But "better than terrible" is not necessarily "good."
+
+With respect to those who feel that government is the only institution large enough to deal with the problem of poverty and that supporting the poor through welfare is part of the civic duty of a just or Christian nation, I would like to suggest that our modern welfare state is deeply anti-life, anti-human, and therefore anti-Christian.
+
+This belief is based on an understanding of the economic concept of assets and liabilities, and also how institutions "think."
+
+
+## Assets and Liabilities
 
 Broadly speaking, an asset is anything which increases your wealth over time through your interaction with it. A liability is the opposite, anything which decreases your wealth over time through your interaction with it.
 
-In the strictest financial terms, this generally refers to property (real or otherwise) which either generates reveneue and/or increases in value over time (on the one hand) or costs money to maintain or decreases in value over time.
+In the strictest financial terms, this generally refers to property (real or otherwise) which either generates revenue and/or increases in value over time (on the one hand) or costs money to maintain or decreases in value over time.
 
 This means that a car is almost always a liability, not an asset. Cars cost money to maintain, they cost money to use, and they almost always decrease in value the longer you own them (exceptions such as vintage collectible automobiles being precisely that- an exception).
 
-Owning a Bitcoin mining rig (or shares in a Bitcoin mining pool) is probably an asset on the other hand. Assuming it works, it will generate some amount of income (Bitcoins). Additionally, its value may go up over time (as the value of Bitcoins increases, the value of mining equipment also increases, like shovels in a gold rush).
+Owning a rental house is probably an asset on the other hand. Assuming you have a tenet, it will generate some amount of income (rent). Additionally, its value may go up over time.
 
 In a more generalized sense of the words, assets and liabilities do not need to be things, nor do they need to be owned by you or even ownable at all. For example: people (or, more precisely, relationships to people) may be thought of as assets and/or liabilities.
 
 ## Don't confuse the two
 
-Before I knew the real definitions, I (like a lot of people) only had a vauge notion that liabilities are bad, and that assets are good.
+Before I knew the real definitions, I (like a lot of people) only had a vague notion that liabilities are bad, and that assets are good.
 
 This is very wrong, and it leads to people seeing things in all the wrong ways.
 
-If you think of an asset as somehting good, anything you need or want or something with intrinsic value and worth, you'll think of your car as an asset. Afterall - you need a car to get to work, so it's helping you bring in income.
+If you think of an asset as something good, anything you need or want or something with intrinsic value and worth, you'll think of your car as an asset. Afterall - you need a car to get to work, so it's helping you bring in income.
 
 This sort of miscategorization happens all the time, and almost always it takes the form of thinking a liability is actually an asset.
 
