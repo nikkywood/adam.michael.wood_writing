@@ -10,7 +10,7 @@ To be sure, these things are a better use of tax dollars than bullets and bombs 
 
 With respect to those who feel that government is the only institution large enough to deal with the problem of poverty and that supporting the poor through welfare is part of the civic duty of a just or Christian nation, I would like to suggest that our modern welfare state is deeply anti-life, anti-human, and therefore anti-Christian.
 
-This belief is based on an understanding of the economic concept of assets and liabilities, and also how institutions "think."
+This belief is based on an understanding of the economic concept of assets and liabilities, and also how institutions "think." As a consequence of understanding the anti-life nature of caretake governments, a (broadly speaking) pro-life understanding of businesses and for-profit corporations emerges.
 
 
 ## Assets and Liabilities
@@ -43,56 +43,55 @@ Most of the time, you need your liabilities. In fact, a strictly rational econom
 
 A company usually can't make money without employees. The employees are needed. But they cost money to maintain (keep employed) and they have no resale value (you generally can't sell people). They are serving the needs of the company, so it is worthwhile to spend the money, but that doesn't make them any less liabilities. Similarly, your local grocery store is fulfilling your need to have something to eat, and it is worth it to you to buy food from them. That doesn't make your grocery store an asset.
 
+## Points of View
 
-## The Objection
+It's worth noting, if it isn't obvious, that something can often be an asset for one party and a liability for another. If I own a rental home with tenets, that home is an asset to me (the landlord) but a liability to the people who live there.
 
-At this point in the explanation, there is almost always a heartfelt objection: But people are valuable! We can't reduce them to being mere assets and liabilities!
+Morover, both things and people have value above and beyond their financial or economic status. So an infant may be a financial liability for a family, but because we love that child, this minor fact is covered over by the intense value we place on that child. Taken as a whole, because human beings are able to understand more types of value than just financial value, that child is really an asset, a continuing source of value.
 
-This is quite right.
-
-People have value and worth apart from their financial status or impact on you (which is why I've always been uncomfortable with the term "Net Worth").
-
-But you can't correct this objectification by declaring people to be assets when they are actually liabilities. That's because calling something a different name doesn't change what it actually is. 
-
-Moreover, adopting the financial-value language to talk about the value you see in a human life only reinforces the idea that financial value is the important thing.
-
-But financial value is not THE important thing. It is simply one characteristic of a person's relationship to another person (remember, a person might represent an asset to one and liability to another).
-
-Complaining about the objectification caused by categorizing people (or, really, relationships) as "assets" or "liabilities" doesn't actually help, because the reason for understanding this is NOT to drive your own behavior ("You should do XYZ because that friend is a liability") but rather so that we can understand why certain organizations, especially the government, treats people the way it does. Only once we understand that can we hope to do anything about it.
 
 ## Rational Economic Actors
 
-When you consider the worth and value of the people in your life, or the intrinsic value of a single human life, you do not think in terms of financial assets and liabilities. 
+Rational economic actors will tend to nurture and increase their assets, while attempting to reduce their liabilities. Rational economic actors love their assets, and hate their liabilities. Further, rational economic actors can only understand quantifiable value - that is, financial value. 
+
+We humans are able to understand non-financial value because we are not soley rational economic actors. Our lives, our choices, our values are not driven by rationality and financial concerns. (Ideally, that is.)
+
+When a moral human beings consider the worth and value of human life in general or a specific human life, they do not think in terms of financial assets and liabilities.
 
 This is a good thing, and the way it ought to be.
 
-This is because you are a human being with a soul and a mind. You have irrational thoughts and uncontrollable emotions. You love, you hate, you learn and grow. You are motivated by an infinite number of conflicting desires and drives which you probably don't fully understand yourself, and which certainly no other person can know. You have secret dreams and secret motivations, plans and schemes and goals and habits good and bad.
+You are a human being with a soul and a mind. You have irrational thoughts and uncontrollable emotions. You love, you hate, you learn and grow. You are motivated by an infinite number of conflicting desires and drives which you probably don't fully understand yourself, and which certainly no other person can know. You have secret dreams and secret motivations, plans and schemes and goals and habits good and bad.
 
-Governments have almost none of those things. They tend to do well on the "plans and schemes," and often "secret motivations," but you'd be hard pressed to find a government that loves or learns. They grow, but more like a cancer than like a healthy human. They have no soul.
+You are not a rational economic actor.
+
+Governments have almost none of those qualities. They tend to do well on the "plans and schemes," and often "secret motivations," but you'd be hard pressed to find a government that loves or learns. They grow, but more like a cancer than like a healthy human. They have no soul.
 
 You may possess the ability to be rational, but you yourself are not wholly rational. And you may engage in economic activity, but you are not soley (or even primarily) an economic actor.
 
-Governments and businesses, on the other hand, are solely economic actors, and they tend strongly toward rationalism.
+Governments, and businesses too, are primarily economic actors, and they tend strongly toward rationalism.
 
-For this reason, neither governments nor corporations can see a person the way we, as people, can see a person. For a strictly economic actor, the only meaning that a person has is as an asset or as a liability.
+For this reason, neither governments nor corporations can see a person the way we, as people, can see a person. For a strictly economic actor, the only meaning that a person has is as an asset or as a liability. Only their financial value matters.
 
 Even though both corporations and governments are run by people, the needs of the organization itself will almost always trump the compassion of the individuals who make it up. This is because the entire purpose of corporations and governments is to sublimate the activity of individuals into a higher and more complex set of goal-seeking behaviors. That's the whole reason humans create organizations like businesses and governments.
 
+
+## A paradox of objectification
+
 So, if governments and corporations view people in similarly dehumanizing ways, they are both similarly bad and should be avoided, right?
 
-This is the "anarcho-communist" viewpoint, and is both common and understandable. But it is also wrong.
+Wrong.
 
-First of all, it is only bad for a person - as a human - to view another person in a way that is reductive and dehumanizing. For a corporate entity, such as a business or a government, to do so is morally neutral. It's just the way it is. 
+It is only bad for a person - as a human - to view another person in a way that is reductive and dehumanizing. For a corporate entity, such as a business or a government, to do so is morally neutral. It's just the way it is. There is no alternative.
 
 The key difference has to do with the goals of government and the goals of businesses, and the effect of that difference is both paradoxically confusing and completely obvious (once you've heard it).
 
 ## Exploitation vs. Caretaking
 
-Typically, a corporation's goal is profit-seeking and a government's goal is taking care of people. You can rephrase or quibble with this if you like, but it is the essential purpose of each of those entities.
+Typically, a corporation's goal is exploitation and profit-seeking and a government's goal is taking care of people. You can rephrase or quibble with this if you like, but it is the essential purpose of each of those entities.
 
 This should mean that governments are caring and good, and that corporations are greedy and evil. Right?
 
-Well, that's the Left-Liberal Socialist view of things. It is completely reasonable at first glance. And it is also completely wrong.
+Again, wrong.
 
 Corporations make profits in a lot of different ways, but at the core of it they make profit from people buying stuff. All the other machinations of industry rest on this fact. People, therefore, are an asset (generally speaking) to corporations. They have value (money) which corporations wish to exploit (by selling them stuff).
 
@@ -102,23 +101,45 @@ Remember I said employees are liabilities? This is true. But businesses need tho
 
 Now, what about governments?
 
-Governments are in the business of taking care of people. Whether that means protecting them from foreign invaders or providing health care to those who can't afford to planning clean cities for them to live in or inspiring them with moon launces, the entire structure of government is predicated on the notion that people need to be taken care of and that government is the best entity to take care of them.
+Governments are in the business of taking care of people. Whether that means protecting them from foreign invaders or providing health care to those who can't afford it or planning clean cities for them to live in or inspiring them with moon launches, the entire structure of government is predicated on the notion that people need to be taken care of and that government is the best entity to take care of them.
 
 Taking care of something has an expense, of course. Every person being taken care of represents a liability to the government that is tasked with that care. And the more care being given, the higher the liability.
 
-Is it any wonder that so many people sense that government hates the poor? Of course it does. At least, to the extent that a soulless, mindless entity without emotion can "hate" something.
+## The Government Hates Life
 
-We could argue here that we can't, or we shouldn't, hate the poor. We are supposed to take care of those who can't take care of themselves. That is the right thing to do. The Christian thing to do.
+Government, as an institution, cannot love. It cannot understand non-financial value. It cannot know the true worth of a human being.
 
-Quite right.
+Unlike a business, which views its customers as a source of value (an asset) and its employees as a required liability, a government has only one way to understand human life: unneeded liability.
 
-We, as human beings, with souls and minds and hearts, can spend our money and our resources on the poor without viewing them as merely economic liabilities. This is because we have values beyond economics. We can love.
+This is especially true of the poor, who represent nothing of value to the government (they do not tend to pay taxes), and who, because of government-run welfare programs, represent a huge expense.
 
-A government (like a corporation) cannot actually love (or even hate) anything or anyone. But, acting in a rational economic manner, the effects of love and hate are in strong evidence.
+Is it any wonder that so many people sense that government hates the poor? Of course it does.
 
-Governments have no option but to see the people receiving their benefits as liabilities. They cannot help but act as if they hate people.
+And what does a rational economic actor seek to do with liabilities? 
 
-Now, one should point out that a certain group of people (and non-people, like corporations) actually provide money to the government - in the form of taxes. One would suspect, then, that the government would view those people as assets, and therefore "like" them.
+Reduce them.
 
-Well - the government clearly likes the rich more than the poor. But, objectively, does it really like the rich either?
+## Caretaker governments are anti-life
+
+It really should not be a surprise to anyone that the rise in social welfare programs - which have increasingly turned individuals into government liabilities - has coincided with a rise in support for abortion "rights," and in the actual number of abortions being performed. 
+
+And, also unsurprisingly, children of the poor make up a gigantically outsized percentage of the number of abortions performed. 
+
+In fact, this is precisely the purpose of abortion - to rid society of those classes of people which society considers to be liabilities. Abortion is genocide for the poor. The small handful of babies aborted by upper and middle class white women (proponents of abortion "rights") are collateral damage in society's war against the poor, and others unfit to live.
+
+Access to safe and legal abortion, along with the general acceptance of birth control as a basic healthcare need, has its roots in the eugenics movement of the early twentieth century. Margaret Sanger, the founder of Planned Parenthood, was a racist eugenicist and admirer of Adolph Hitler. Her anti-life birth-control agenda had as much to do with "assist[ing] the race toward the elimination of the unfit" as it did with the emancipation of women. Interestingly, Sanger herself was not in favor of abortion - Planned Parenthood did not begin advocating for abortion access until after her death. But this change in policy can be seen as simply the logical outgrowth of the founding principles of the eugenics movement.
+
+## A shared history
+
+It would be enough to show that a welfare state is inherently anti-life based on a purely economic argument, as I have done above. The facts are fairly straightforward: those receiving aid are a liability which must be eliminated.
+
+This would be the case even if abortion, and other anti-life policies (such as assisted suicide and government-funded birth control), were merely an after-effect, a natural development.
+
+But they were not a natural development. They were not unforeseen side-effects of a benevolent attempt to care for all people.
+
+As documented in Edwin Black's <a href="http://www.amazon.com/gp/product/0914153293/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0914153293&linkCode=as2&tag=musforsun-20&linkId=V4WYUD5TQC6UUZOZ">War Against the Weak: Eugenics and America's Campaign to Create a Master Race</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=musforsun-20&l=as2&o=1&a=0914153293" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, eugenics was a central organizing principle for the early Progressive movement (and, really, all of early 20th century intellectual society). Moreover, it was part of a larger program of government planning which changed government from an entity focused on defense and general order to a leviathan concerned with taking care of people and ensuring quality of life (for those deemed fit to live).
+
+Government-run welfare programs are not just accidentally anti-life. They are anti-life in their very conception.
+
+## Moving towards life
 
