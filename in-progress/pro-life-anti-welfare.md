@@ -1,3 +1,5 @@
+# Pro-life and anti-welfare
+
 Christians must be pro-life, not simply a part of the Pro-Life movement. That is, we must be actively in favor of policies and attitudes which nurture and sustain life, and not simply allied for a political agenda regarding abortion (though that agenda is intensely important).
 
 Many Christians have recognized this fact and broken ranks at various times to support what they considered pro-life policies even when they were championed by anti-life or pro-abortion groups and individuals.
