@@ -1,16 +1,16 @@
-Economically and politically conservative Catholics, especially those of us who identify as Libertarian, are sometimes criticized for being against government-run Welfare programs.
+Christians must be pro-life, not simply a part of the Pro-Life movement. That is, we must be actively in favor of policies and attitudes which nurture and sustain life, and not simply allied for a political agenda regarding abortion (though that agenda is intensely important).
 
-The basis for this criticism - and it has some logic to it - is that if we are Pro-Life (which we most certainly must be), we should also be in favor of those policies and programs which help nurture and sustain life. 
+Many Christians have recognized this fact and broken ranks at various times to support what they considered pro-life policies even when they were championed by anti-life or pro-abortion groups and individuals.
 
-And this is true. We must not be Pro-Life only when that life is unborn. We must be in favor of, and supportive of, all human life in every stage. We must be pro-life, not just part of the Pro-Life movement.
+While seeking common ground with one's enemies is praiseworthy thing, we should be careful about what things truly promote life, and which things only appear to do so, but may have sinister side effects (or, more often than we realize, sinister origins).
 
-What, then, is a pro-life attitude toward government welfare? Many would say that using tax dollars to feed the hungry, clothe the naked, and house the homeless is a good and virtuous thing. A pro-life thing. A Christian thing.
+This is especially true of government functions which appear to do the charitable work Christians are called to. Many would say that using tax dollars to feed the hungry, clothe the naked, and house the homeless is a good and virtuous thing. A pro-life thing. A Christian thing.
 
 To be sure, these things are a better use of tax dollars than bullets and bombs and bridges to nowhere. But "better than terrible" is not necessarily "good."
 
-With respect to those who feel that government is the only institution large enough to deal with the problem of poverty and that supporting the poor through welfare is part of the civic duty of a just or Christian nation, I would like to suggest that our modern welfare state is deeply anti-life, anti-human, and therefore anti-Christian.
+Rather, I suggest that our modern welfare state is deeply anti-life.
 
-This belief is based on an understanding of the economic concept of assets and liabilities, and also how institutions "think." As a consequence of understanding the anti-life nature of caretake governments, a (broadly speaking) pro-life understanding of businesses and for-profit corporations emerges.
+This conclusion relies on an understanding of the economic concepts of "asset" and "liability," and the difference between government and human agency.
 
 
 ## Assets and Liabilities
@@ -21,7 +21,7 @@ In the strictest financial terms, this generally refers to property (real or oth
 
 This means that a car is almost always a liability, not an asset. Cars cost money to maintain, they cost money to use, and they almost always decrease in value the longer you own them (exceptions such as vintage collectible automobiles being precisely that- an exception).
 
-Owning a rental house is probably an asset on the other hand. Assuming you have a tenet, it will generate some amount of income (rent). Additionally, its value may go up over time.
+Owning a rental house is probably an asset on the other hand. Assuming you have a tenant, it will generate some amount of income (rent). Additionally, its value may go up over time.
 
 In a more generalized sense of the words, assets and liabilities do not need to be things, nor do they need to be owned by you or even ownable at all. For example: people (or, more precisely, relationships to people) may be thought of as assets and/or liabilities.
 
