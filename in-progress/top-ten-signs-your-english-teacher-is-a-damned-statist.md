@@ -13,7 +13,7 @@ In fact, it's even worse than arbitrary and stupid. Insistence on the use of the
 ## 8. Wishes English had an official academy like the French and Spanish
 This is usually expressed like, "The problem with the English language is that we have no official academy to determine what is and isn't proper English, like they do in French and Spanish. Without that kind of control, it's just chaos."
 
-It should be fairly obvious that anyone who wishes that a pseudo-governmental agency exerted control over something as fundamental and natural as human language is a damned Statist. If it isn't obvious, one look at the ridiculous costumes and pompous ass-holery of the French Academy ought to confirm for you that this is a very bad idea.
+It should be fairly obvious that anyone who wishes that a pseudo-governmental agency exerted control over something as fundamental and natural as human language is a damned Statist. If it isn't obvious, one look at the [ridiculous costumes and pompous ass-holery of the French Academy](http://www.xn--acadmie-franaise-npb1a.fr/les-immortels/lhabit-vert-et-lepee) ought to confirm for you that this is a very bad idea.
 
 ## 7. Is never hopeful in a generalized sense.
 Ever been corrected for saying "Hopefully, no one will correct this sentence?" You might be told that you should rewrite this to say "I hope that..." 
@@ -23,10 +23,12 @@ This is total nonsense, and hopefully you will be able to rise above the obnoxio
 ## 6. Uses the phrase "technically incorrect."
 As in "'to boldly go where no man has gone before' contains a split infinitive and is *technically incorrect*."
 
-Besides the fact that even pedantic grammarians are divided on the question of whether split infinitives are a bad idea, this statement reeks of Statist hubris. Linguistic usage is correct because well-respected masters of the form are willing to use it, not because some school-marmy grammar nazi has made up a rule about it. If it's good enough for NASA and Star Trek, it's not just good enough for me - it's good enough, period.
+Besides the fact that even pedantic grammarians are divided on the question of whether split infinitives are a bad idea, this statement reeks of Statist hubris. Linguistic usage is correct because well-respected masters of the form are willing to use it, not because some school-marmy grammar nazi has made up a rule about it. 
+
+If it's good enough for NASA and Star Trek, it's not just good enough for me - it's good enough, period.
 
 ## 5. Believes that a word is a word because it is "in the dictionary."
-A word is a word because people use it. You can make up a word, and it's still a word - otherwise you would call it "making up a thing similar to a word but which is not actually a word." Any good lexicographer will tell you that a dictionary is a catalog of known words, not a rule book promulgating allowable words. A dictionary is a piece of journalism, not legislation. Unfortunately, Statists are so in love with the idea that a small group of experts can dictate reality that they mistakenly think that a dictionary is an authoritative gatekeeper on the language.
+A word is a word because people use it. You can make up a word, and it's still a word - otherwise you would call it "making up a thing similar to a word but which is not actually a word." [Any good lexicographer](http://www.ted.com/talks/erin_mckean_redefines_the_dictionary) will tell you that a dictionary is a catalog of known words, not a rule book promulgating allowable words. A dictionary is a piece of journalism, not legislation. Unfortunately, Statists are so in love with the idea that a small group of experts can dictate reality that they mistakenly think that a dictionary is an authoritative gatekeeper on the language.
 
 ## 4. Believes that a word means exactly and only what the dictionary says it means.
 Along with thinking that a dictionary contains the set of all letter combinatinos which are officially words, Statist English Teachers think that dictionaries are the arbiters of meaning, when in reality they are only reporting on generally accepted understandings. This perverts a useful tool into a dangerous piece of propaganda, leading people to believe that meaning, and thus life itself, is fixed and unchageable.
@@ -35,7 +37,7 @@ Along with thinking that a dictionary contains the set of all letter combinatino
 You asked your teacher if you "can" borrow a pencil, and you get a stern lecture on the difference between "can" and "may." This means that your English teacher thinks that rules about written language should override the natural development of conversational speech. Only a Statist would be so arrogant.
 
 ## 2. Hates the third-person singular use of the word "they."
-Statist English Teachers will tell you that you should never say "my friend said their English teacher is a damned statist." This sort of nonsense happens because Statist believe that a pronoun should match its antecedant in number, and they further believe that "they" can only be a plural pronoun. Like most Statist policies, this sounds perfectly logical in theory until you realize that without "they," there can be no third-person singular gender non-specific personal pronoun in English without "they," forcing every unknown third person into the strait-jacket cultural definitions of "he" or "she" or else robbing them of their humanity through the impersonal "it." (A Statist never considers the unintended consequences of their decrees.) 
+Statist English Teachers will tell you that you should never say "my friend said their English teacher is a damned statist." This sort of nonsense happens because Statist believe that a pronoun should match its antecedant in number, and they further believe that "they" can only be a plural pronoun. Like most Statist policies, this sounds perfectly logical in theory until you realize that without "they," there can be no third-person singular gender non-specific personal pronoun in English without "[they](http://en.wikipedia.org/wiki/Singular_they)," forcing every unknown third person into the strait-jacket cultural definitions of "he" or "she" or else robbing them of their humanity through the impersonal "it." (A Statist never considers the unintended consequences of their decrees.) 
 
 ## 1. Is an English teacher.
 Let's face it, the whole idea that the English language is something you can teach in a classroom is total Statist lie.
