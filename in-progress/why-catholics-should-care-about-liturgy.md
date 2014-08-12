@@ -8,6 +8,14 @@ The one thing that seems to have changed in the late modern era is that irrevere
 
 
 
+//
+Odo Casel - The Mhysgtery of Christian Worship
+http://www.amazon.com/gp/product/082451808X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=082451808X&linkCode=as2&tag=musforsun-20
+
+Romano Guardini - The Spirit of the Liturgy
+http://www.amazon.com/gp/product/0824517776/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0824517776&linkCode=as2&tag=musforsun-20
+
+
 
 
 //
