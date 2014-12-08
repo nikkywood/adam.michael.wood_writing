@@ -16,9 +16,9 @@ What if these are all variations of the same general revolt?
 
 They are.
 
-American political culture treats these protests as distinct and even divergent in their goals. The Tea Party was called “right wing” because the bones of contention at its inception were high taxes, wealth transfers, and health care nationalization. Occupy was considered “left wing” because it emphasized the evil of the rich and the need for government to redistribute more. And the new anti-police protests are supposedly about racial disparities and justice, and mainly concern the interests of racial minorities in general and blacks in particular.
+American political culture treats these protests as distinct and even divergent in their goals. The Tea Party was called “right wing” because the bones of contention at its inception were high taxes, wealth transfers, and health care nationalization. Occupy was considered “left wing” because it emphasized the evil of the rich and the need for government to redistribute more. And the new anti-police protests are supposedly about racial disparities and justice, and mainly concern of racial minorities in general and blacks in particular.
 
-There is a sense in which all of this is true in their cultural look and feel. They attract different demographic groups: race, class, age, region. And these differences cause political minds to think that they cancel each other out, that this is just a street version of the left and the right, populist realizations of politics as usual.
+There is a sense in which all of this is true in terms of cultural look and feel. They attract different demographic groups: race, class, age, region. And these differences cause political minds to think that they cancel each other out, that this is just a street version of the left and the right, populist realizations of politics as usual.
 
 A better way to understand them is to look for the unifying factor. They are all protesting against the massive and growing use of power against the people and their aspirations for a peaceful and prosperous life. In this sense, they are different expressions of the same protest, each valid and correct in its own way.
 
