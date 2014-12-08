@@ -1,4 +1,4 @@
-I don’t have the stomach to watch anymore videos of beatings by police. New ones seem to be coming out by the day. As ghastly as they are, as horrifying as is the truth we are seeing, I’m glad these videos exist. I’m happy we have the technology to finally catch criminal acts taking place, especially when they take place under the cover of law.
+I don’t have the stomach to watch any more videos of beatings by police. New ones seem to be coming out by the day. As ghastly as they are, as horrifying as is the truth we are seeing, I’m glad these videos exist. I’m happy we have the technology to finally catch criminal acts taking place, especially when they take place under the cover of law.
 
 In many ways, these viral videos are forging what might be the most significant and lasting political movement of my lifetime, a full-scale revolt against what everyone used to believe was the most essential function of the state. Not only has this function turned murderous, the machinery of the state is unwilling to hold police accountable.
 
