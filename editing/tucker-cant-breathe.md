@@ -42,3 +42,11 @@ But in the end, we all face the same struggle. It is the struggle between the vo
 Remember that the protests we see are only the visible ones. Underneath them, we have a growing seething in the very firmament of society among all classes, races, and political outlooks. For every protester in front of the camera, there are hundreds of thousands of sympathizers, which is what happens in a country where government impositions have stopped household incomes from rising in real terms for twenty years. And this reality has hit us during a time of explosive technological improvements that would have otherwise conferred massive material benefits on society.
 
 The rise of power has robbed us all. We experience different forms of victimization. We express our frustration in different ways. We have a different set of triggers. But when it comes to knowing the enemy, we really should all be united in clarity.
+
+
+
+-----
+Edited Version of Jeffrey Tucker's #WeCantBreathe: It’s All Part of the Same Revolt
+http://tucker.liberty.me/2014/12/08/wecantbreath-its-all-part-of-the-same-revolt/
+
+This essay belongs to Jeffrey Tucker. I just fixed some typos and added some commas. And stuff.
