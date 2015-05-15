@@ -1,3 +1,9 @@
+# Creating Common Good: A Practical Conference on Economic Equality
+
+## Essay prompt:
+> In keeping with the theme, Trinity Institute is holding an essay competition to inspire theological scholars to examine the post-2008 economic context and offer solutions about how best to pursue God’s promise of abundant life against the backdrop of the global financial crisis.  Essays should envision alternatives to the status quo that are consistent with scripture, theological traditions, and contemporary understandings of human flourishing.
+> Entries should answer some aspect of the following three questions: (1) When does economic inequality become sinful?;  (2);How can theological and biblical sources help turn the economy toward the common good?; and  (3) What individual and community practices could be created to confront the sin of inequality and cultivate theological visions of the common good?
+
 ## Is income inequality sinful?
 
 ### No. Not at any point.
