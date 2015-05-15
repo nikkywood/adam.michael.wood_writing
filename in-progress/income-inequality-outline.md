@@ -19,11 +19,13 @@
 
 ### However, it may become a near occasion to sin, specifically to:
  
-  - scapegoating (of the rich, by the poor)
+ - oppression (of the poor, by the rich) 
+
+ - scapegoating (of the rich, by the poor)
      - The very notion that income inequality is sinful is an example of this.
      - Extreme income inequality will likely lead to popular uprisings and eventually violent overflow
   
-  - oppression (of the poor, by the rich
+  
 
   - rivalry with God (by both)
      - by claiming one or another artificially created system represents a fair distribution of wealth, both poor and rich (and also --- both capitalists and socialists) place themselves in rivalry with God, to whom alone belongs distributive justice
