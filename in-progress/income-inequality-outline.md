@@ -25,9 +25,7 @@
      - The very notion that income inequality is sinful is an example of this.
      - Extreme income inequality will likely lead to popular uprisings and eventually violent overflow
   
-  
-
-  - rivalry with God (by both)
+ - rivalry with God (by both)
      - by claiming one or another artificially created system represents a fair distribution of wealth, both poor and rich (and also --- both capitalists and socialists) place themselves in rivalry with God, to whom alone belongs distributive justice
      - by assigning this power to government we are in danger of state idolatry
 
